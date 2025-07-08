@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystalRus_I2C_Esp
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LiquidCrystalRus_I2C_Esp    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin                 KEYWORD2
+clear                 KEYWORD2
+home                  KEYWORD2
+setCursor             KEYWORD2
+backlight             KEYWORD2
+noBacklight           KEYWORD2
+display               KEYWORD2
+noDisplay             KEYWORD2
+printRus              KEYWORD2
+printRusFlash         KEYWORD2
+scrollText            KEYWORD2
+createChar            KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
